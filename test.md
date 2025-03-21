@@ -4,3 +4,5 @@
 > 2025.3.21 -10：23
 
 # now pull this to your desktop.
+
+> now edit in the vscode...
